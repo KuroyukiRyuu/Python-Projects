@@ -1,3 +1,5 @@
+# Note: Deprecated as link is out of date
+
 import requests
 import re
 from bs4 import BeautifulSoup
